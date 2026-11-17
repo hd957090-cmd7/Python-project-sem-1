@@ -1,5 +1,10 @@
 # Python-project-sem-1
-                                                   Project Summary: Inventory + Sales Management System
+
+Project title = Project Summary: Inventory + Sales Management System
+Name = Harsh Dewangan
+Section = "L"
+ERP No. = RU-26-01089
+
 1. Project Overview
     -This is a console-based Python application developed to manage store inventory and record customer sales. It uses CSV files (inventory.csv and sales.csv) for         persistent data storage and the Pandas library for efficient data handling and reporting.
 2. Key Features Implemented
